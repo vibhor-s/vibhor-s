@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vibhor-shukla
+- 👋 Hi, I’m Vibhor Shukla
 - 👀 I enjoy doing Web development and Competetive programming 
 - 🌱 I’m a final year undergrad at IIT (BHU) Varanasi
 - 📫 How to reach me ... www.linkedin.com/in/profile-vibhor-shukla
